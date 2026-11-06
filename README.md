@@ -9,7 +9,7 @@
   <a href="https://pavlemarinkovic.com"><img alt="Website" src="https://img.shields.io/badge/Website-pavlemarinkovic.com-ff7a45?style=for-the-badge&labelColor=0a0f1c"></a>
   <a href="https://pavlemarinkovic.com/Pavle-Marinkovic-CV.pdf"><img alt="CV (PDF)" src="https://img.shields.io/badge/CV-PDF-ff7a45?style=for-the-badge&labelColor=0a0f1c"></a>
   <a href="https://cal.com/pavlemarinkovic/intro"><img alt="Book a 15-minute call" src="https://img.shields.io/badge/Book_a_call-15_min-ff7a45?style=for-the-badge&labelColor=0a0f1c"></a>
-  <a href="https://www.linkedin.com/in/pavlemarinkovic"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pavlemarinkovic-ff7a45?style=for-the-badge&labelColor=0a0f1c&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pavlemarinkovic"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pavlemarinkovic-ff7a45?style=for-the-badge&labelColor=0a0f1c"></a>
 </p>
 
 I build the parts of Salesforce Commerce that don't work out of the box: custom checkout and payment flows, product configurators, Order Management processes, and integrations with SAP, payment providers and in-store systems. I've done it since 2020 for retailers and manufacturers across Europe, and at BEE IT I lead a team of three developers.
@@ -32,11 +32,11 @@ Outside Salesforce I build websites and web apps in JavaScript, React, Next.js a
 
 ### Stack
 
-![Salesforce Commerce Cloud](https://img.shields.io/badge/Commerce_Cloud-111829?style=flat-square&logo=salesforce&logoColor=ff7a45)
-![B2B Commerce](https://img.shields.io/badge/B2B_Commerce-111829?style=flat-square&logo=salesforce&logoColor=ff7a45)
-![Order Management](https://img.shields.io/badge/Order_Management-111829?style=flat-square&logo=salesforce&logoColor=ff7a45)
-![Apex](https://img.shields.io/badge/Apex-111829?style=flat-square&logo=salesforce&logoColor=ff7a45)
-![LWC](https://img.shields.io/badge/LWC-111829?style=flat-square&logo=salesforce&logoColor=ff7a45)
+![Salesforce Commerce Cloud](https://img.shields.io/badge/Commerce_Cloud-111829?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmN2E0NSIgZD0iTTcgMTlhNSA1IDAgMCAxLS45LTkuOTJBNiA2IDAgMCAxIDE3LjYgOC4xIDQuNSA0LjUgMCAxIDEgMTguNSAxOUg3eiIvPjwvc3ZnPg%3D%3D)
+![B2B Commerce](https://img.shields.io/badge/B2B_Commerce-111829?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmN2E0NSIgZD0iTTcgMTlhNSA1IDAgMCAxLS45LTkuOTJBNiA2IDAgMCAxIDE3LjYgOC4xIDQuNSA0LjUgMCAxIDEgMTguNSAxOUg3eiIvPjwvc3ZnPg%3D%3D)
+![Order Management](https://img.shields.io/badge/Order_Management-111829?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmN2E0NSIgZD0iTTcgMTlhNSA1IDAgMCAxLS45LTkuOTJBNiA2IDAgMCAxIDE3LjYgOC4xIDQuNSA0LjUgMCAxIDEgMTguNSAxOUg3eiIvPjwvc3ZnPg%3D%3D)
+![Apex](https://img.shields.io/badge/Apex-111829?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmN2E0NSIgZD0iTTcgMTlhNSA1IDAgMCAxLS45LTkuOTJBNiA2IDAgMCAxIDE3LjYgOC4xIDQuNSA0LjUgMCAxIDEgMTguNSAxOUg3eiIvPjwvc3ZnPg%3D%3D)
+![LWC](https://img.shields.io/badge/LWC-111829?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmN2E0NSIgZD0iTTcgMTlhNSA1IDAgMCAxLS45LTkuOTJBNiA2IDAgMCAxIDE3LjYgOC4xIDQuNSA0LjUgMCAxIDEgMTguNSAxOUg3eiIvPjwvc3ZnPg%3D%3D)
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-111829?style=flat-square&logo=javascript&logoColor=ff7a45)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111829?style=flat-square&logo=typescript&logoColor=ff7a45)
@@ -50,7 +50,7 @@ Outside Salesforce I build websites and web apps in JavaScript, React, Next.js a
 ![MySQL](https://img.shields.io/badge/MySQL-111829?style=flat-square&logo=mysql&logoColor=ff7a45)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111829?style=flat-square&logo=mongodb&logoColor=ff7a45)
 ![Firebase](https://img.shields.io/badge/Firebase-111829?style=flat-square&logo=firebase&logoColor=ff7a45)
-![AWS](https://img.shields.io/badge/AWS-111829?style=flat-square&logo=amazonwebservices&logoColor=ff7a45)
+![AWS](https://img.shields.io/badge/AWS-111829?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-111829?style=flat-square&logo=git&logoColor=ff7a45)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111829?style=flat-square&logo=githubactions&logoColor=ff7a45)
 
